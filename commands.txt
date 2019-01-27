@@ -1,0 +1,1 @@
+show router 3001 bgp summary
